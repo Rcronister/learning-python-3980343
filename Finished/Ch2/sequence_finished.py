@@ -10,7 +10,7 @@ print(len(mylist))
 print(mylist[2])
 print(mylist[-1])
 mylist[0] = 1
-print(mylist[0])
+print(mylist)
 
 # add a list to another list
 anotherlist = [5, 6.0, "seven"]
